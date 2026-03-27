@@ -6,7 +6,7 @@ Physics Graduate transitioning into Web development, with a strong foundation in
 ### Skills
 - **Languages**: Python, JavaScript, C, SQL, C++
 - **Web**: HTML, CSS, Bootstrap, Django, AJAX, REST APIs
-- **Systems & Networking**: Unix/Linux, C system calls, socket programming (TCP/IP), HTTP
+- **Systems & Networking**: Programming in the Unix/Linux Environment, C system calls, socket programming (TCP/IP), HTTP
 - **Tools**: Git, Github, Docker 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/konstantinos-exadaktylos/
