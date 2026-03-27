@@ -2,11 +2,12 @@
 Physics Graduate transitioning into Web development, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
 ### Interests
 - Building full-stack web applications using Django and JavaScript
-- Exploring low-level systems programming in C in the Unix/Linux Environment
+- Backend development and web architecture
+- Low-level systems programming in C in the Unix/Linux Environment
 ### Skills
 - **Languages**: Python, JavaScript, C, SQL, C++
 - **Web**: HTML, CSS, Bootstrap, Django, AJAX, REST APIs
-- **Systems & Networking**: BASH, C system calls, socket programming (TCP/IP), HTTP
+- **Systems & Networking**: Bash, C system calls, socket programming (TCP/IP), HTTP
 - **Tools**: Git, Github, Docker
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/konstantinos-exadaktylos/
