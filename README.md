@@ -4,21 +4,12 @@ Physics Graduate transitioning into Web development, with a strong foundation in
 - Build full-stack web applications using Django and JavaScript
 - Explore low-level systems programming in C
 ### Skills
-- Python, Django
-- JavaScript, HTML, CSS, Bootstrap
-- C, SQL, 
-- Git, Docker, REST APIs
+- **Languages**: Python, JavaScript, C, SQL, C++
+- **Web**: HTML, CSS, Bootstrap, Django, AJAX, REST APIs
+- **Systems & Networking**: Unix/Linux, C system calls, socket programming (TCP/IP), HTTP
+- **Tools**: Git, Github, Docker 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/konstantinos-exadaktylos/
-
-
-### Interests
-- Backend Development
-- HTTP & Networking
-- low-level systems programming in C
-
-
-### 
 <!--
 **konstantinos61-0/konstantinos61-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
