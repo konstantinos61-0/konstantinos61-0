@@ -1,5 +1,7 @@
-## Hello 👋
+## Hi, I'm Konstantinos 👋
+Physics Graduate transitioning into Web development, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
 
+### 
 <!--
 **konstantinos61-0/konstantinos61-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
