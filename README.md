@@ -1,5 +1,16 @@
 ## Hi, I'm Konstantinos 👋
 Physics Graduate transitioning into Web development, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
+### What I do
+### Skills
+- Python, Django
+- JavaScript, HTML, CSS, Bootstrap
+- C, SQL
+- Git, Docker, REST APIs
+### Interests
+- Backend Development
+- HTTP & Networking
+- low-level systems programming in C
+
 
 ### 
 <!--
