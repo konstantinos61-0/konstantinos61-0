@@ -1,5 +1,5 @@
-## Konstantinos
-Physics Graduate transitioning into Web development, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
+## Hi, I'm Konstantinos :wave: 
+I'm a Physics Graduate transitioning into Web development, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
 ### Interests
 - Building full-stack web applications using Django and JavaScript
 - Web architecture
