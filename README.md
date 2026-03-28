@@ -8,5 +8,5 @@ I'm a Physics Graduate transitioning into Web development, with a strong foundat
 - **Languages**: Python, JavaScript, C, SQL, C++
 - **Web**: HTML, CSS, Bootstrap, Django, AJAX, REST APIs
 - **Systems & Networks**: Linux, Bash, C system calls, TCP/IP socket programming, HTTP
-- **Tools**: Git, Github, Docker
+- **Tools**: Git, GitHub, Docker
 
