@@ -9,5 +9,4 @@ Physics Graduate transitioning into Web development, with a strong foundation in
 - **Web**: HTML, CSS, Bootstrap, Django, AJAX, REST APIs
 - **Systems & Networks**: Linux, Bash, C system calls, TCP/IP socket programming, HTTP
 - **Tools**: Git, Github, Docker
-### Contact
-- LinkedIn: https://www.linkedin.com/in/konstantinos-exadaktylos/
+
