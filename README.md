@@ -1,9 +1,9 @@
 ## Hi, I'm Konstantinos :wave: 
-I'm a Physics Graduate transitioning into Web development, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
+I'm a Physics Graduate transitioning into IT, with a strong foundation in Computer Science (Independent Learning, CS50x, CS50Web)
 ### Interests
-- Building full-stack web applications using Django and JavaScript
-- Web architecture
+- Internet architecture
 - Low-level systems programming in C in the Unix/Linux Environment
+- Building full-stack web applications using Django and JavaScript
 ### Skills
 - **Languages**: Python, JavaScript, C, SQL, C++
 - **Web**: HTML, CSS, Bootstrap, Django, AJAX, REST APIs
